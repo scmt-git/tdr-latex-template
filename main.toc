@@ -23,6 +23,6 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {A.1}Schriftliche Ausarbeitung}{8}{subsection.A.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.2}Vorgehensweise}{10}{subsection.A.2}%
+\contentsline {subsection}{\numberline {A.2}Vorgehensweise}{9}{subsection.A.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.3}Editoren}{11}{subsection.A.3}%
+\contentsline {subsection}{\numberline {A.3}Editoren}{10}{subsection.A.3}%
