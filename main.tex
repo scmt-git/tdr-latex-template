@@ -61,12 +61,12 @@
 %\pagenumbering{arabic}
 
 %%%%% ABBILDUNGSVERZEICHNIS %%%%%
-\listoffigures
 %\addcontentsline{toc}{chapter}{Abbildungsverzeichnis}
+\addcontentsline{toc}{section}{\listfigurename}\listoffigures
 \cleardoublepage
 
 %%%%% TABELLENVERZEICHNIS %%%%%
-\listoftables
+\addcontentsline{toc}{section}{\listtablename}\listoftables
 \cleardoublepage
 
 %%%%%  GLOSSARY  %%%%%%
@@ -75,8 +75,9 @@
 \cleardoublepage
 
 %%%%% QUELLCODEVERZEICHNIS %%%%%
-\renewcommand\lstlistlistingname{Programmcodeverzeichnis}
-\lstlistoflistings
+%\addcontentsline{toc}{section}{\lstlistlistingname}
+%\renewcommand\lstlistlistingname{Programmcodeverzeichnis}
+%\lstlistoflistings
 
 \newpage
 \cleardoublepage

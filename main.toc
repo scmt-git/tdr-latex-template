@@ -1,6 +1,10 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {ngerman}{}
 \defcounter {refsection}{0}\relax 
+\contentsline {section}{Abbildungsverzeichnis}{v}{section*.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Tabellenverzeichnis}{vi}{section*.9}%
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{Abkürzungsverzeichnis}{vii}{section*.11}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1}Einleitung}{1}{section.1}%
